@@ -1,4 +1,4 @@
-# cryptotracker
+# Tic Tak Toe
 
 A new Flutter project.
 
